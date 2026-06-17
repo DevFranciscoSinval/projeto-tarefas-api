@@ -2,7 +2,7 @@
 
 API REST para gerenciamento de tarefas, inspirada no estilo Trello. Permite que usuários se cadastrem, façam login e gerenciem suas próprias tarefas com controle de prioridade, status, prazos, filtros dinâmicos, paginação e busca textual.
 
-Projeto desenvolvido como trabalho final da disciplina de desenvolvimento back-end, aplicando conceitos de arquitetura em camadas, autenticação via JWT, persistência com MongoDB e documentação interativa com Swagger.
+Projeto desenvolvido como trabalho final do terceiro semestre, focado em JavaScript, aplicando conceitos de arquitetura em camadas, autenticação via JWT, persistência com MongoDB e documentação interativa com Swagger.
 
 ## Funcionalidades
 
@@ -174,7 +174,11 @@ A API retorna códigos de status HTTP semânticos para cada situação:
 
 ## Autores
 
-- A definir
+- **Francisco Sinval Junior** — Arquitetura do projeto, autenticação JWT, CRUD de tarefas, integração com MongoDB, documentação Swagger
+- **Bianka Rocha da Silva** — Planejamento da arquitetura
+- **Carlos Felipe Souza** — Revisão de código 
+- **Lincoln Figuereido Silva** — Levantamento de requisitos
+- **Joao Gabriel Aguiar** — Apresentação do projeto
 
 ## Licença
 
